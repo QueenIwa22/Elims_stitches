@@ -1,0 +1,20 @@
+.id-card{
+    width: 100%;
+    max-width: 600px;
+    height: 320px;
+    border: 1px solid darkgoldenrod;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #463838c2;
+}
+.id-card-body{
+    display: flex;
+    padding: 1rem;
+}
+.id-card-body img {
+    max-width: 150px;
+    border-radius: 8px;
+}
+
+.id-card-content {
+    margin-left: 2rem;
+} 
